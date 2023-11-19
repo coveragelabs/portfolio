@@ -25,5 +25,5 @@
   - Final Report
     
 ## Contacts
-[![1](https://github.com/coveragelabs/security-reviews/assets/108442237/181782cb-cd37-4d6f-9866-ebf1492b7c6f)](https://twitter.com/coverage_labs)
-[![2](https://github.com/coveragelabs/security-reviews/assets/108442237/3ff4ffb0-550b-4bfe-a967-6bcd55787580)](https://www.linkedin.com/company/coveragelabs)
+[<img src="https://github.com/coveragelabs/security-reviews/assets/108442237/181782cb-cd37-4d6f-9866-ebf1492b7c6f" width="48">](https://twitter.com/coverage_labs)
+[<img src="https://github.com/coveragelabs/security-reviews/assets/108442237/3ff4ffb0-550b-4bfe-a967-6bcd55787580" width="48">](https://www.linkedin.com/company/coveragelabs)
